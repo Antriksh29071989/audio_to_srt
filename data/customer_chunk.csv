@@ -1,0 +1,5 @@
+CustomerID,CustomerName,Email,PhoneNumber,Address
+CUST1000,Customer_0,customer0@example.com,555-1000,0 Maple Street
+CUST1001,Customer_1,customer1@example.com,555-1001,1 Maple Street
+CUST1002,Customer_2,customer2@example.com,555-1002,2 Maple Street
+CUST1003,Customer_3,customer3@example.com,555-1003,3 Maple Street
